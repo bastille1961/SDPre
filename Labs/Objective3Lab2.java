@@ -1,4 +1,4 @@
-public class Main {
+public class Objective3Lab2 {
 	public static void main(String[] args) {
 		double base_leg = 4;
 		double vertical_leg = 8;

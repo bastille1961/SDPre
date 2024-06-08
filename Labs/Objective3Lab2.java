@@ -1,5 +1,5 @@
 public class Main {
-	public static void main(String [] args) {
+	public static void main(String[] args) {
 		double base_leg = 4;
 		double vertical_leg = 8;
 		base_leg = base_leg * base_leg;

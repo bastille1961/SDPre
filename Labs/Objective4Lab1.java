@@ -28,8 +28,8 @@ public class Objective4Lab1 {
 	String favoriteSong = scanner.keyboard();
 
 	System.out.println("Thank you for completing this questionaire" + fname + lname + 
-		"You seem to have great taste in that your favorite animal is a" + favoriteAnimal 
-		", your favorite food is" + favoriteFood "and you like to listen to" + favoriteSong);
+		"You seem to have great taste in that your favorite animal is a" + favoriteAnimal +  
+		", your favorite food is" + favoriteFood + "and you like to listen to" + favoriteSong);
 
 	scanner.close();
 

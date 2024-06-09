@@ -20,7 +20,7 @@ public class Objective4Lab2 {
 		int num2 = scanner.nextInt();
 		System.out.println("Please enter the third whole number you would like to add.");
 		int num3 = scanner.nexInt();
-		System.out.println("The sum of of three whole numbers entered is" + num1 "+" + num2 "+" + num3 "=" + sum);
+		System.out.println("The sum of of three whole numbers entered is" + num1 + "+" + num2 + "+" + num3 + "=" + sum);
 
 		System.out.println("Please enter the first decimal number you would like to add.");
 		double dub1 = scanner.nextDouble();
@@ -28,7 +28,7 @@ public class Objective4Lab2 {
 		double dub2 = scanner.nextDouble();
 		System.out.println("Please enter the third decimal number you would like to add.");
 		double dub3 = scanner.nextDouble();
-		System.out.println("The sum of the three decimal numbers entered is:" + dub1 "+" + dub2 "+" + dub3 "=" + dubSum);
+		System.out.println("The sum of the three decimal numbers entered is:" + dub1 + "+" + dub2 + "+" + dub3 + "=" + dubSum);
 
 		scanner.close();
 

@@ -8,7 +8,7 @@ public class Objective3Lab3 {
 		System.out.println("The second roll of the die presents the number: " + second);
 		System.out.println("The third roll of the die presents the number: " + third);
 		int sum = first + second + third;
-		System.out.println("The sum of the first, second and third values is:" + sum);
+		System.out.println("The sum of the first, second and third values is: " + sum);
 	
 	}
 
